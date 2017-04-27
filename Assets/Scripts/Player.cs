@@ -21,7 +21,6 @@ public class Player : MonoBehaviour {
     public bool wallSliding;
     public bool wallCheck;
 
-
     //Referencias
     private Rigidbody2D rb2d;
     private Animator anim;

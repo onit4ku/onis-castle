@@ -16,15 +16,9 @@ public class Enemigo : MonoBehaviour {
 		gm = GameObject.FindGameObjectWithTag("GameMaster").GetComponent<gameMaster>();
 	}
 
-
 	// Use this for initialization
 	void Start () {
 		currentHealth = maxHealth; //Vida a tope al inicio
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
 	}
 
 	void FixedUpdate(){
@@ -46,7 +40,6 @@ public class Enemigo : MonoBehaviour {
       //  invul = true; //is invulnerable
         StartCoroutine(DmgWait());
     }
-
 
 	void Death()
 	{
