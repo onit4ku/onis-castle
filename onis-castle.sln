@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "onis-castle", "onis-castle.csproj", "{1084878B-DA29-1357-0E28-2FB8EF81C7E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "onis-castle.Editor", "onis-castle.Editor.csproj", "{5C1332C1-25CA-1F8A-ED1D-1B71A5AA8FC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1084878B-DA29-1357-0E28-2FB8EF81C7E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1084878B-DA29-1357-0E28-2FB8EF81C7E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1084878B-DA29-1357-0E28-2FB8EF81C7E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1084878B-DA29-1357-0E28-2FB8EF81C7E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C1332C1-25CA-1F8A-ED1D-1B71A5AA8FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1332C1-25CA-1F8A-ED1D-1B71A5AA8FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1332C1-25CA-1F8A-ED1D-1B71A5AA8FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1332C1-25CA-1F8A-ED1D-1B71A5AA8FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
