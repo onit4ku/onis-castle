@@ -7,7 +7,6 @@ using UnityEditor;
 
 public class CameraFollowEditor : Editor {
 
-
     public override void OnInspectorGUI()
     {
         DrawDefaultInspector();
